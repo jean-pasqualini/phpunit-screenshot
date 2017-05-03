@@ -1,0 +1,19 @@
+{
+    "name": "jean-pasqualini/phpunit-screenshot",
+    "type": "library",
+    "description": "phpunit-screenshot",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "bin": [
+        "phpunit-screenshot"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Pasqualini",
+            "email": "jpasqualini75@gmail.com"
+        }
+    ],
+    "require": {}
+}
